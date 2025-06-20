@@ -1,4 +1,6 @@
 # 🧬 Breast Cancer Cells Detection using Machine Learning
+![image](https://github.com/user-attachments/assets/19ea8950-e247-4e5c-becd-3c3214f4b253)
+
 Detecting malignant and benign breast cancer cells using machine learning algorithms for early diagnosis and improved treatment outcomes.
 
 Overview : 
