@@ -1,4 +1,4 @@
-🧬 Breast Cancer Cells Detection using Machine Learning
+# 🧬 Breast Cancer Cells Detection using Machine Learning
 Detecting malignant and benign breast cancer cells using machine learning algorithms for early diagnosis and improved treatment outcomes.
 
 Overview : 
@@ -16,16 +16,20 @@ Features: 30 real-valued features (e.g., radius, texture, perimeter, area, etc.)
 
 Target: Diagnosis (M = Malignant, B = Benign)
 
-🛠️ Technologies Used
+# 🛠 Technologies Used
 Python 🐍
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
 
 Jupyter Notebook / Streamlit (if any GUI is added)
 
-🧠 ML Algorithms Used
+# ML Algorithms Used
 Logistic Regression
 
 Support Vector Machine (SVM)
@@ -46,7 +50,7 @@ Precision, Recall, F1-score
 
 ROC-AUC Curve
 
-📈 Results
+# 📈 Results
 Model	Accuracy	Precision	Recall	F1-score
 Logistic Regression	96.5%	97%	96%	96.5%
 SVM	98.2%	98%	98%	98%
